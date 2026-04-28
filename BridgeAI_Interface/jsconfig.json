@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+    "ignoreDeprecations": "5.0",
+    "jsx": "react-jsx",
+    "target": "ESNext",
+    "moduleDetection": "force",
+    "paths": {
+      "@/*": ["./*"]
+    }
+  },
+  "exclude": ["node_modules", ".expo", "web-build"]
+}
