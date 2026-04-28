@@ -1,6 +1,7 @@
 import sqlite3
 
 db_file = "Clean.db"
+# the file "stergaturi.sql" no longer exists, but the code is left here for reference as the file already achieved its purpose.
 sql_file = "stergaturi.sql"
 
 try:

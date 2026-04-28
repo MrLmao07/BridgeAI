@@ -1,6 +1,7 @@
 import sqlite3
 
 DB_FILE  = "Clean.db"
+# the file "editor.sql" no longer exists, but the code is left here for reference as the file already achieved its purpose.
 SQL_FILE = "editor.sql"
 
 
