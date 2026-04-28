@@ -362,7 +362,7 @@ export default function Account() {
             <Text style={styles.modalTitle}>Update Photo URL</Text>
             <TextInput
               style={styles.modalInput}
-              placeholder="https://link-imagine.jpg"
+              placeholder="https://image-link.jpg"
               value={avatarInputUrl}
               onChangeText={setAvatarInputUrl}
               autoCapitalize="none"
