@@ -1,0 +1,8 @@
+# requirements.txt
+# Installation: pip install -r requirements.txt
+
+undetected-chromedriver>=3.5.5
+selenium>=4.18.0
+beautifulsoup4>=4.12.3
+lxml>=5.1.0
+setuptools
